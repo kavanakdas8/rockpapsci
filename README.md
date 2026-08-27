@@ -39,17 +39,3 @@ A lightweight, interactive command-line Rock, Paper, Scissors game built in Java
 
 3.Type quit at any time to end the session and see your final score.
 
-**Example Output**
-
-Enter choice (rock, paper, scissors or quit): rock
-Computer chose: scissors
-You won this round!
-Score -> You: 1 | Computer: 0
-
-Enter choice (rock, paper, scissors or quit): paper
-Computer chose: scissors
-Computer won this round!
-Score -> You: 1 | Computer: 1
-
-Enter choice (rock, paper, scissors or quit): quit
-Final Score -> You: 1 | Computer: 1
