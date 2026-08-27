@@ -29,11 +29,14 @@ A lightweight, interactive command-line Rock, Paper, Scissors game built in Java
    cd rockpapersci
 
 **How to Play**
+
 1.When prompted, type one of the following moves:
 * rock
 * paper
 * scissors
+
 2.View the round outcome and updated scores.
+
 3.Type quit at any time to end the session and see your final score.
 
 **Example Output**
